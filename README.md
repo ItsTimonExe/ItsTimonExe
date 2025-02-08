@@ -34,7 +34,7 @@
     <a href="https://" target="blank">
         <img src="https://img.icons8.com/color/344/webmoney.png" width="20"></img>
     </a>
-    <a href="https://www.linkedin.com/in/ahmed-oueriach" target="blank">
+    <a href="https://www.linkedin.com/in/oueriach-ahmed-9a205630b" target="blank">
         <img src="https://img.icons8.com/fluency/344/linkedin-circled.png" width="20"></img>
     </a>
     <a href="https://www.instagram.com/weriach_ahmed" target="blank">
