@@ -34,10 +34,10 @@
     <a href="https://" target="blank">
         <img src="https://img.icons8.com/color/344/webmoney.png" width="20"></img>
     </a>
-    <a href="https://www.linkedin.com/in/ahmed oueriach" target="blank">
+    <a href="https://www.linkedin.com/in/ahmed-oueriach" target="blank">
         <img src="https://img.icons8.com/fluency/344/linkedin-circled.png" width="20"></img>
     </a>
-    <a href="https://www.instagram.com/wweriach_ahmed" target="blank">
+    <a href="https://www.instagram.com/weriach_ahmed" target="blank">
         <img src="https://img.icons8.com/ios-filled/344/4a90e2/instagram-new--v1.png" width="20"></img>
     </a>
     <a href="mailto:oueriachahmed@gmail.com" target="blank">
